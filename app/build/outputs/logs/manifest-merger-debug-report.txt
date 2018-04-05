@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/0e5c030c7107bf37e49f4497ea297208/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/b87b9bee49d6693bc2040d7afb50eb54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/56abb5fceb459645b666191d63948cb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c98061596a892d043bb19ca3440cf3bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/47436b7febadda0060324eb2f3e45417/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/948a48ae14204564921d9e5f1f2e1595/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/0099e80f6fc4791dda1870fc11274c46/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/62c497e73cdd92d31938d5377b71e6b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8e86b6dbd3ad53ef2cb226371376fe1e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d68786ae887be9c161bf5fdc551ae6e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3601cf1efab3cb74567dbbfd84e232c8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+	package
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:19:5-45
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:1-45:12
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:22:22-78
+application
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:24:5-43:19
+	android:label
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:25:9-36
+	android:theme
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.alihn.android.jobscheduler.MainActivity
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:31:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:32:13-54
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:30:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:35:27-74
+service#com.alihn.android.jobscheduler.MyJobService
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:39:9-42:38
+	android:exported
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:42:13-36
+	android:permission
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:41:13-69
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml:40:13-71
+uses-sdk
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/0e5c030c7107bf37e49f4497ea297208/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/0e5c030c7107bf37e49f4497ea297208/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/b87b9bee49d6693bc2040d7afb50eb54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/b87b9bee49d6693bc2040d7afb50eb54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/56abb5fceb459645b666191d63948cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/56abb5fceb459645b666191d63948cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c98061596a892d043bb19ca3440cf3bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c98061596a892d043bb19ca3440cf3bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/47436b7febadda0060324eb2f3e45417/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/47436b7febadda0060324eb2f3e45417/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/948a48ae14204564921d9e5f1f2e1595/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/948a48ae14204564921d9e5f1f2e1595/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/0099e80f6fc4791dda1870fc11274c46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/0099e80f6fc4791dda1870fc11274c46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/62c497e73cdd92d31938d5377b71e6b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/62c497e73cdd92d31938d5377b71e6b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8e86b6dbd3ad53ef2cb226371376fe1e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8e86b6dbd3ad53ef2cb226371376fe1e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d68786ae887be9c161bf5fdc551ae6e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d68786ae887be9c161bf5fdc551ae6e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3601cf1efab3cb74567dbbfd84e232c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3601cf1efab3cb74567dbbfd84e232c8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/AndroidManifest.xml

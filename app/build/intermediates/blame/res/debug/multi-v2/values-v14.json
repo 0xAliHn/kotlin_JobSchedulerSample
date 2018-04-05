@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "856",
+                        "endLines": "26",
+                        "endColumns": "12",
+                        "endOffsets": "1002"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

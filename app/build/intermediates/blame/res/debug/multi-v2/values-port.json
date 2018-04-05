@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/kotlin_JobSchedulerSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/0e5c030c7107bf37e49f4497ea297208/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
